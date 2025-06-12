@@ -32,7 +32,6 @@ dream-flute/
 ├── cos-e_t5_fine-tuning_and_generate_elaboration.ipynb  # T5 fine-tuning + elaboration
 ├── using_dream_for_elaboaration.ipynb  # Generates elaborations using DREAM
 ├── README.md
-└── .gitignore
 ```
 
 ---
